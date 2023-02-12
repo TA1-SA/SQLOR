@@ -1,0 +1,57 @@
+SQL Fundementals ======>Oracle 12c 
+
+1-query Statement [Select]
+
+2-Data Definition Language [create,drop ,alter ]
+
+3-Data Manuplation language [insert,update,delete]
+
+
+4-Data Control Language [Grant ,revoke]
+
+5-Transaction Control Language [Commit ,Rollback]
+
+
+
+
+======================================================================
+SA===>SQL + Tableau 
+
+IT ===> SQL +CCNA + ITIL + MCSA windows Server +  Sec+
+
+Security===>CCNA , Sec+ ,ITIL,CEH
+
+ORACLE ERP DEVELOPER ==> SQL + PL/SQL + Forms and reports +JAVA 
+
+Sharepoint Developer ===> SQL +HTML CSS JS+ C#+asp.net +Sharepoint Developer 
+
+
+
+
+Sun -Wed
+4-6 PM 
+
+4Weeks 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
