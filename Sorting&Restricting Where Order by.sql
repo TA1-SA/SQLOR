@@ -153,11 +153,41 @@ order by hire_date
 Task 5) page 28 
 
 select last_name ,department_id from employees 
-where department_id
+where department_id in (20,50)
 order by last_name
 
 
 
+select last_name ,department_id from employees 
+where department_id =20 or department_id=50
+order by last_name
+=========================================================
+Task 6 Page 28
+select Last_name ,salary from employees 
+where salary between 5000 and 12000
+and department_id in (20,50)
 
+select Last_name ,salary,department_id from employees 
+where salary >=5000 and salary <= 12000
+and (department_id = 20 or department_id=50)
+=========================================================
+Task 7) Page 28
+select last_name ,hire_date 
+from employees 
+where hire_date like '%-%-06'
 
+select last_name ,hire_date 
+from employees 
+where hire_date between '01-jan-06'and '31-dec-06'
+
+select last_name ,hire_date 
+from employees 
+where hire_date >= '01-jan-06'and hire_date<= '31-dec-06'
+======================================
+Task 8 Page 28
+
+select Last_name ,job_id from employees 
+where manager_id is null
+====================================
+Task 9-15  as a home Work
 
